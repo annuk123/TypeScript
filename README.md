@@ -47,23 +47,6 @@ If installed correctly, this will print the installed TypeScript version.
 
 ---
 
-```markdown
-# TypeScript Learning
-
-[This guide helps you get started with TypeScript from scratch. It's focused on learning concepts rather than building a specific project. You will learn how to install TypeScript, understand the basic file structure, and set up a TypeScript environment for practice.]
-
----
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Forking the Repository](#forking-the-repository)
-- [License](#license)
-
----
-
 ## Contributing
 
 We welcome contributions of all kinds to improve this ! Whether you're fixing a concept mising, adding concepts, or improving the documentation, your help is appreciated.
