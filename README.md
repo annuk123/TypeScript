@@ -144,8 +144,8 @@ When you're learning, you might want to practice with multiple files. To get a m
 ### Step 1: Create a New Directory
 Create a new folder for your learning project:
 ```bash
-mkdir typescript-learning
-cd typescript-learning
+mkdir TypeScript
+cd TypeScript
 ```
 
 ### Step 2: Initialize TypeScript Configuration
