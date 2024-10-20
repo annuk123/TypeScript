@@ -1,4 +1,4 @@
-Here’s a template for a **TypeScript** `README.md` file that covers the basics, installation, setup, and key features. This could be useful for a project, or as a learning guide.
+This **TypeScript** `README.md` file covers the basics, installation, setup, and key features. This could be useful for a project, or as a learning guide.
 
 ---
 
