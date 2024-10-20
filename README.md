@@ -280,25 +280,3 @@ Here are some useful resources for learning TypeScript:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
----
-
-### Breakdown of the Sections:
-
-#### 1. **Contributing Section**:
-   - This outlines the process for contributing to the project, including steps like creating an issue, making changes, and submitting a pull request.
-   - It includes details about creating branches, committing changes, and guidelines on maintaining code quality and consistency.
-
-#### 2. **Forking Guide**:
-   - The Forking Guide explains how a developer can fork the project to their own account and keep it in sync with the original repository.
-   - It provides the commands necessary to clone the repository, add the original repository as `upstream`, and stay up to date with changes.
-
----
-
-### Tips for Customizing:
-
-- **Code of Conduct**: You can link to a [Code of Conduct](https://docs.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project) if your project has one, which further enhances the contribution experience.
-- **Issue Templates**: Include issue and pull request templates to guide contributors on how to properly submit issues and PRs.
-- **Contribution Guidelines**: Consider creating a separate `CONTRIBUTING.md` file for detailed contribution guidelines and link to it from your README.
-
